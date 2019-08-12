@@ -1,4 +1,4 @@
-# -bankCardNumIdentify
+# creditCard-Number-Recognition
 
 # 基于tensorflow、keras实现对银行卡号识别
 ---
