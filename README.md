@@ -1,8 +1,6 @@
 # creditCard-Number-Recognition
 
-# 基于tensorflow、keras实现对银行卡号识别
----
-# 测试环境
+### 测试环境
 ---
 ```
 Ubuntu 18.04
@@ -27,5 +25,5 @@ pip3 install PyQt5==5.12.2
 [具体安装过程可以在NVIDIA官网查看](https://developer.nvidia.com/cuda-10.0-download-archive)
 
 ---
-# 启动demo
+### 启动demo
 执行demo.py打开银行卡号识别的GUI界面。batch_test.py用于对银行卡进行批量识别，将要识别的银行卡放在同目录下的test_images文件中。定位结果以及识别结果存放在test_results中。
